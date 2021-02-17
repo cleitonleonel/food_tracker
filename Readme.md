@@ -1,6 +1,6 @@
 # Food_Tracker
 
-![QRCode Doação](https://raw.githubusercontent.com/cleitonleonel/food_tracker/master/tracker.svg)
+<img src="https://raw.githubusercontent.com/cleitonleonel/food_tracker/master/tracker.svg" width="200">
 
 ### Sobre:
 
