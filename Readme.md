@@ -1,5 +1,8 @@
 ##Food_Tracker
-![Food_Tracker](https://github.com/cleitonleonel/food_tracker/blob/master/static/media/tracker.svg?raw=true)
+
+<img title="Food_Tracker" src="https://raw.githubusercontent.com/cleitonleonel/food_tracker/master/tracker.svg" width="200" height="150" alt=""/>
+
+#
 
 Food_Tracker faz o que o nome propriamente diz, rastreia sua comida, hahaha, defina sua área
 passando o CEP da rua, um valor mínimo e outro máximo que corresponde ao valor limite dos produtos
@@ -203,7 +206,7 @@ print(restaurants)
 ]
 ```
 
-### Este lib ajudou você?
+### Esta lib ajudou você?
 
 Se esta lib permitir que você fique à vontade para fazer uma doação =), pode ser R $ 0,50 hahahaha. Para isso, basta ler o qrcode abaixo.
 
