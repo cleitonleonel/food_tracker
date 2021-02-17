@@ -2,17 +2,17 @@
 
 <img title="Food_Tracker" src="https://raw.githubusercontent.com/cleitonleonel/food_tracker/master/tracker.svg" width="200" height="150" alt=""/>
 
-###Sobre:
+#Sobre:
 
 Food_Tracker faz o que o nome propriamente diz, rastreia sua comida, hahaha, defina sua área
 passando o CEP da rua, um valor mínimo e outro máximo que corresponde ao valor limite dos produtos
 que deseja procurar em estabelecimentos parceiros do IFOOD e essa lib encontra os melhores locais e
 produtos de acordo com os filtros aplicados.
 
-###Instalação:
+#Instalação:
 pip install git+https://github.com/cleitonleonel/food_tracker.git
 
-###Uso:
+#Uso:
 ```python
 from api.ifood import IfoodAPI
 
@@ -39,7 +39,7 @@ print(restaurants)
 
 ```
 
-###Resultado:
+#Resultado:
 ```json
 [
     {
@@ -206,11 +206,11 @@ print(restaurants)
 ]
 ```
 
-### Esta lib ajudou você?
+#Esta lib ajudou você?
 
 Se esta lib permitir que você fique à vontade para fazer uma doação =), pode ser R $ 0,50 hahahaha. Para isso, basta ler o qrcode abaixo.
 
 ![QRCode Doação](https://github.com/cleitonleonel/pypix/blob/master/qrcode.png?raw=true)
 
-###Autor:
+#Autor:
 cleiton.leonel@gmail.com
