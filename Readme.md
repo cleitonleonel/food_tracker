@@ -12,6 +12,18 @@ produtos de acordo com os filtros aplicados.
 ### Instalação:
 pip install git+https://github.com/cleitonleonel/food_tracker.git
 
+### Método Cli:
+
+* Esse método aceita um CEP ou um endereço normal.
+
+* Exemplo de cep: '29148613';
+
+* Exemplo de endereço: 'Rua das castanheiras, Cariacica, Vila Independência, 34';
+
+```shell script
+python3 service.py <address>
+```
+
 ### Uso:
 ```python
 from api.ifood import IfoodAPI
